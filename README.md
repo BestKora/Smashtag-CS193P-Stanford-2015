@@ -18,5 +18,5 @@ Xcode 6.4 iOS 8.4 Swift 1.2
 
 [Задание 4. Решение - дополнительный пункт 5.](http://bestkora.com/IosDeveloper/zadanie-4-reshenie-dopolnitelnye-punkty-1-4/)-> [Assignment4ExtraTasks15](https://github.com/BestKora/Smashtag-CS193P-Stanford-2015/tree/Assignment4ExtraTasks15)
 
-[Задание 4. Решение - дополнительный пункт 6.](http://bestkora.com/IosDeveloper/zadanie-4-reshenie-dopolnitelnyj-punkt-6/)-> [Assignment4ExtraTasks16](https://github.com/BestKora/Smashtag-CS193P-Stanford-2015/tree/Assignment4ExtraTasks16)
+[Задание 4. Решение - дополнительный пункт 6.](http://bestkora.com/IosDeveloper/zadanie-4-reshenie-dopolnitelnyj-punkt-6/)-> [Assignment4ExtraTasks16A](https://github.com/BestKora/Smashtag-CS193P-Stanford-2015/tree/Assignment4ExtraTasks16A)
 
